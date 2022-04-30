@@ -15,7 +15,6 @@
     "url": "https://github.com/peterwangfeng/beautiful-girl-wf"
   },
   "dependencies": {
-    "beautiful-girl-wf": "^1.0.0",
     "bootstrap": "^4.4.1",
     "cheerio": "^1.0.0-rc.3",
     "global": "^4.4.0",
