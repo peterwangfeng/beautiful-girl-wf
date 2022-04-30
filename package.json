@@ -3,7 +3,12 @@
   "version": "2.0.0",
   "main": "./index.js",
   "license": "MIT",
-  "keywords": ["美女", "图片", "下载", "爬取"],
+  "keywords": [
+    "美女",
+    "图片",
+    "下载",
+    "爬取"
+  ],
   "scripts": {
     "dev": "node ."
   },
