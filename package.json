@@ -1,6 +1,6 @@
 {
-  "name": "beautiful-girl",
-  "version": "1.0.0",
+  "name": "beautiful-girl-spider",
+  "version": "1.0.1",
   "main": "./index.js",
   "license": "MIT",
   "keywords": ["美女", "图片", "下载", "爬取"],
@@ -9,6 +9,10 @@
   },
   "bin": {
     "mn": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterwangfeng/beautiful-girl-wf"
   },
   "dependencies": {
     "beautiful-girl-wf": "^1.0.0",
