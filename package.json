@@ -20,14 +20,13 @@
     "url": "https://github.com/peterwangfeng/beautiful-girl-wf"
   },
   "dependencies": {
-    "bootstrap": "^4.4.1",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.10",
     "global": "^4.4.0",
-    "puppeteer": "^2.0.0"
+    "puppeteer": "^13.7.0"
   },
   "devDependencies": {
-    "@types/cheerio": "^0.22.15",
-    "@types/puppeteer": "^2.0.0",
-    "nrm": "^1.2.1"
+    "@types/cheerio": "^0.22.31",
+    "@types/puppeteer":"^5.4.6",
+    "nrm":"^1.2.5"
   }
 }
